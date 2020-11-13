@@ -1,0 +1,32 @@
+Package: xyz.monotrix.aeolus
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Monotrix
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/xyz.monotrix.aeolus_1.0.3_iphoneos-arm.deb
+Size: 2984
+MD5sum: 4fd3f945646d939bfb2314a0c0edc8c3
+SHA1: cf01f59cf531c7b868b4a07c0be3e7377f25bd9c
+SHA256: 33b0b023f6f52de1d011930ddb0c3e72708abd6608709a4b6adecfba70d1545d
+Section: Tweaks
+Description: A tweak to remove Table Separators system-wide (without crashes).
+Author: Monotrix
+Name: Aeolus
+
+Package: xyz.monotrix.reachoptions
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Monotrix
+Installed-Size: 312
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 11.0)
+Filename: ./debs/xyz.monotrix.reachoptions_1.2.1_iphoneos-arm.deb
+Size: 16290
+MD5sum: e47d508571be06cfb2178caf5ce2c1fa
+SHA1: 2e3fd0c4548ed4345c9c700d2e22a8cfa658eed3
+SHA256: 076793cd18e28d140e74afe0f284a196aa8bdcd0c06cfec31af01a6b819f63d7
+Section: Tweaks
+Description: A tweak to add options to reachability.
+Author: Monotrix
+Name: ReachOptions
+
